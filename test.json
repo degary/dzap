@@ -1,3 +1,4 @@
 {
-  "test": true
+  "test": true,
+  "gitlab": false
 }
